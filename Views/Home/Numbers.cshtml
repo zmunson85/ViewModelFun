@@ -1,0 +1,8 @@
+@using vmf.Models
+@model Number
+
+<h1 style="text-align: center;">Here are some numbers!</h1>
+@foreach (var num in Model.NumberList)
+{
+    <p style="text-align: left;">@num</p>
+}

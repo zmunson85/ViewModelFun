@@ -1,0 +1,7 @@
+@using vmf.Models
+@model List<Individual>
+<h1 style="margin-left: 300px; margin-bottom: 40px;">Here are Some Users!</h1>
+@foreach(var ind in Model)
+{
+    <p style="margin-right: 80%; text-align: center;">@ind.FirstName @ind.LastName</p>
+}

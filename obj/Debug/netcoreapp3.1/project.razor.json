@@ -14407,6 +14407,16 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\Owner\\OneDrive\\Desktop\\Dojo_Assignments\\csharp\\vmf\\Views\\Home\\Numbers.cshtml",
+      "TargetPath": "Views\\Home\\Numbers.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Owner\\OneDrive\\Desktop\\Dojo_Assignments\\csharp\\vmf\\Views\\Home\\Users.cshtml",
+      "TargetPath": "Views\\Home\\Users.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\Owner\\OneDrive\\Desktop\\Dojo_Assignments\\csharp\\vmf\\Views\\_ViewImports.cshtml",
       "TargetPath": "Views\\_ViewImports.cshtml",
       "FileKind": "mvc"
@@ -14419,6 +14429,11 @@
     {
       "FilePath": "c:\\Users\\Owner\\OneDrive\\Desktop\\Dojo_Assignments\\csharp\\vmf\\Views\\_ViewStart.cshtml",
       "TargetPath": "Views\\_ViewStart.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Owner\\OneDrive\\Desktop\\Dojo_Assignments\\csharp\\vmf\\Views\\Home\\User.cshtml",
+      "TargetPath": "Views\\Home\\User.cshtml",
       "FileKind": "mvc"
     },
     {
